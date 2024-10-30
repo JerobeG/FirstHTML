@@ -1,4 +1,5 @@
   button {
+  background-color: orange;
   height:150px;
   width:640px;
   transition: 0.3s;
@@ -8,7 +9,7 @@
   
 }
 
-  button:hover {
+.buttonyes {
   background-color: orange
   transform: scale(1.05);
   color:blue
