@@ -8,7 +8,7 @@ td button {
   
 }
 
-td hover {
+td button:hover {
   background-color:
   transform: scale(1.05);
   color:blue
