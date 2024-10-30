@@ -1,10 +1,10 @@
 td button {
-  height:150px
-  width:640px
-  transition: 0.3
-  cursor:pointer
-  color:blue
-  font-size:30px 
+  height:150px;
+  width:640px;
+  transition: 0.3s;
+  cursor:pointer;
+  color:blue;
+  font-size:30px;
   
 }
 
