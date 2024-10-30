@@ -1,4 +1,4 @@
-td button {
+  button {
   height:150px;
   width:640px;
   transition: 0.3s;
@@ -8,8 +8,8 @@ td button {
   
 }
 
-td button:hover {
-  background-color:
+  button:hover {
+  background-color: orange
   transform: scale(1.05);
   color:blue
 }
