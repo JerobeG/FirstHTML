@@ -9,8 +9,12 @@
   
 }
 
-.buttonyes {
-  background-color: orange
-  transform: scale(1.05);
-  color:blue
-}
+ button:hover {
+              color: white;
+              cursor: pointer;
+              border: 0px;
+            }
+
+            button:active {
+              transform: scale(0.85);
+            }
