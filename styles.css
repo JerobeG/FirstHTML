@@ -1,20 +1,8 @@
   button {
-  background-color: orange;
   height:150px;
   width:640px;
   transition: 0.3s;
   cursor:pointer;
-  color:blue;
   font-size:30px;
   
 }
-
- button:hover {
-              color: white;
-              cursor: pointer;
-              border: 0px;
-            }
-
-            button:active {
-              transform: scale(0.85);
-            }
