@@ -4,5 +4,8 @@
   transition: 0.3s;
   cursor:pointer;
   font-size:30px;
+
+  td {
+    font-size: 300px;
   
 }
