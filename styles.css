@@ -1,4 +1,7 @@
-  button {
+body {
+  background-color: #ccffcc
+}
+button {
   height:200px;
   width:960px;
   transition: 0.3s;
