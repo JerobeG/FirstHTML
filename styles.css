@@ -4,8 +4,16 @@
   transition: 0.3s;
   cursor:pointer;
   font-size:30px;
+  }
 
   h1 {
-    font-size: 300px;
-  
+    font-size: 300px;  
 }
+
+  h2 {
+    font-size: 300px;
+  }
+
+  h3 {
+    font-size: 300px
+  }
